@@ -102,6 +102,18 @@ hr{
 
 /* course section started */
 
+.Latest-Courses{
+    display: flex;
+    justify-content: center;  
+    
+}
+
+.course{
+    Width:252.42px;
+    Height:269.79px;
+    padding-right: 20px;  
+}
+
 .course .course-photo img{
     width: 224px;
     height: 104px;
@@ -110,4 +122,11 @@ hr{
 .course .mentor{
     color: #ED6B4F;
     font-size: 14px;
+}
+
+.rating-and-time .filled{
+    color: #FFC014;
+}
+.gray{
+    color: #992323, 100%;
 }
